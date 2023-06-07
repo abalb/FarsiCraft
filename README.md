@@ -14,3 +14,4 @@ How to install FarsiCraft:
 It currently works with only blocks with the first letter of the block being "A". This is the first version.
 
 Github Page: https://github.com/abalb/FarsiCraft
+Modrinth Page: https://modrinth.com/resourcepack/farsicraft
